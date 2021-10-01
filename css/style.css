@@ -1,0 +1,11 @@
+body {
+    background: rgba(135, 222, 215, 0.609);
+}
+
+canvas {
+    border: 8px solid gray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
